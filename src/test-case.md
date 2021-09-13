@@ -1,10 +1,10 @@
 # TK1. Пополнение счета VIP клиента #1
 ### Предусловия: 
-Windows 10 Pro, x64
-Mozilla Firefox 81.0
-https://superbank.ru
-Логин: vipservice
-Пароль:sd76746jjdjffh87872/VIP
+* Windows 10 Pro, x64
+* Mozilla Firefox 81.0
+* https://superbank.ru
+* Логин: vipservice
+* Пароль:sd76746jjdjffh87872/VIP
 ### Приоритет: 
 Высокий 
 ## Шаги воспроизведения
