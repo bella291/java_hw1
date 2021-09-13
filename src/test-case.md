@@ -4,7 +4,7 @@
 * Mozilla Firefox 81.0
 * https://superbank.com
 * Логин: vipservice
-* Пароль:sd76746jjdjffh87872/VIP
+* Пароль: sd76746jjdjffh87872/VIP
 ### Приоритет: 
 Высокий 
 ## Шаги воспроизведения
