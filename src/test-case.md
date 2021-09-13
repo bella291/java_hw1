@@ -2,7 +2,7 @@
 ### Предусловия: 
 * Windows 10 Pro, x64
 * Mozilla Firefox 81.0
-* https://superbank.ru
+* https://superbank.com
 * Логин: vipservice
 * Пароль:sd76746jjdjffh87872/VIP
 ### Приоритет: 
